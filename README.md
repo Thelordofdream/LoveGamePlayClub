@@ -1,37 +1,12 @@
-## Welcome to GitHub Pages
+# 就爱玩游戏俱乐部
+## 就爱玩游戏群数据库，欢迎大家多做贡献。
 
-You can use the [editor on GitHub](https://github.com/Thelordofdream/LoveGamePlayClub/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+以下是目前数据库中的七张表格及其地址：
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Thelordofdream/LoveGamePlayClub/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+* [【腾讯文档】游戏开发成本收集表](https://docs.qq.com/sheet/DYlVXY3F0QUtTWHVB?c=D45B0AA0)
+* [【腾讯文档】国行游戏过审名录](https://docs.qq.com/sheet/DYmhJRk9XSXV4dmlo?c=A1C0B0)
+* [【腾讯文档】NS游戏矩阵](https://docs.qq.com/sheet/DYklxWXh0Vk1jdU5s?c=C68B0CZ0)
+* [【腾讯文档】游戏问题集](https://docs.qq.com/sheet/DYmZ2dmlyVmhTekxj?c=A1A0B0)
+* [【腾讯文档】PS历代游戏安利表](https://docs.qq.com/sheet/DYnRrWkdHVVp3WlRR?c=A1A0B0)
+* [【腾讯文档】游戏音乐库](https://docs.qq.com/sheet/DYkJvdnd5b01wZmlj?c=A1A0B0)
+* [【腾讯文档】显卡性能对比](https://docs.qq.com/sheet/DYmdXYVd4ekNZakNr?c=A1A0B0)
